@@ -4,9 +4,6 @@
 
 ## Áreas de Conocimiento
 
-### Desarrollo Web
-- **Lenguajes**: php, javascript, css, html.
-- **Herramientas**: Visual Studio Code.
 
 ### Desarrollo de Software
 - **Lenguajes**: C++, python.
@@ -25,8 +22,8 @@
 
 ## Certificaciones y Cursos
 
-- Curso de Matemáticas y Ciencia de Datos - Tecnológico de Monterrey ITESM (link_al_curso)
-- Curso de algoritmos y estructuras de datos - Tecnológico de Monterrey ITESM (link_al_curso)
-- Curso de progración orientada a objetos - Tecnológico de Monterrey ITESM (link_al_curso)
-- Curso de programación con estructuras de control con python - Tecnológico de Monterrey ITESM (link_al_curso)
+- Curso de Matemáticas y Ciencia de Datos - Tecnológico de Monterrey ITESM
+- Curso de algoritmos y estructuras de datos - Tecnológico de Monterrey ITESM
+- Curso de progración orientada a objetos - Tecnológico de Monterrey ITESM 
+
 - 
