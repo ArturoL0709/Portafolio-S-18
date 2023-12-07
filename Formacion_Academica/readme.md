@@ -9,11 +9,10 @@
 - **Periodo**: Agosto 2022 - ?
 - **Descripción**: Programa enfocado en el desarrollo de sistemas embebidos y su aplicación a la robótica inteligente.
 
-###  Bachillerato tecnológico - CBTIS 179
-- **Grado**: Carrera técnica en programación
+###  PREPATEC HIDALGO
+- **Grado**: Egresado con preparatoria cumlminada
 - **Periodo**: Agosto 2019 - Julio 2022
-- **Descripción**: Programa que desarrolla las competencias profesionales que permiten al estudiante realizar actividades dirigidas a analizar, diseñar, desarrollar , instalar y mantener software de aplicación tomando como base los requerimientos del usuario.
-
+- **Descripción**: Las competencias disciplinares impulsadas en PrepaTec, a través de profesores inspiradores, nacionales y extranjeros, te permitirán descubrir el mundo y alcanzar un desarrollo académico de excelencia.
 ## Cursos y Certificaciones
 
 ### Curso de Ciencia de Datos - Tecnológico de Monterrey
@@ -22,16 +21,9 @@
 - **Duración**: 4 meses
 - **Descripción**: Como resultado se desarrollan modelos matemáticos básicos que pueden ser relevantes para la toma de decisiones en situaciones de la vida real apoyado en el uso de la tecnología.
 
-## Reconocimientos Académicos
-
-- Beca Líderes del Mañana - Año 2022
-  - **Institución**: Tecnológico de Monterrey.
-  - **Descripción**: Es un programa de movilidad social para formar líderes talentosos y sensibles que impacten positivamente a la comunidad, y que requieren apoyo financiero del 100 % para estudiar una carrera profesional en el Tec de Monterrey.
-
 ## Proyectos Destacados
 
-- [Proyecto Final de Aplicaciones Web: Calculadora de impuestos en línea](https://github.com/alexaMcFly/Portafolio/tree/main/Proyectos%20destacados/Calcualdora%20de%20impuestos/impuestos/P%C3%A1gina%20de%20inicio)
-  - Descripción: Aplicación web de calculadora para el cálculo de ISR  e IVA, en donde se pueden visualizar de forma amigable los egresos e ingresos.
+- [Proyecto Final de Progrmación Orientada a Ibjetos en C++ (https://github.com/ArturoL0709/Proyecto_TC1030)
+  - Descripción: Proyecto en C++ que permite la simulación de la forma de operar las ordenes de un restaurante
  
-- [Proyecto Final de Aplicaciones Web: Tienda de Música en línea con sistema de base de datos](https://github.com/alexaMcFly/Portafolio/tree/main/Proyectos%20destacados/tiendaMusica)
-  - Descripción: Aplicación web de tienda de instrumentos musicales en línea con gestión de inventario mediante MySQL
+
